@@ -1,6 +1,7 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
-AB,DTA,10,Airport - Bullfrog,,3,,,
-BFC,DTA,20,Bullfrog - Furnace Creek Resort,,3,,,
-STBA,DTA,30,Stagecoach - Airport Shuttle,,3,,,
-CITY,DTA,40,City,,3,,,
-AAMV,DTA,50,Airport - Amargosa Valley,,3,,,
+BL,KAUSTFC,Blue,KAUST Blue bus,KAUST Blue bus,,3,,,
+GR,KAUSTFC,Blue,KAUST Green bus,KAUST Blue bus,,3,,,
+RE,KAUSTFC,Blue,KAUST Red bus,KAUST Blue bus,,3,,,
+OR,KAUSTFC,Blue,KAUST Orange bus,KAUST Blue bus,,3,,,
+PU,KAUSTFC,Blue,KAUST Purple bus,KAUST Blue bus,,3,,,
+YE,KAUSTFC,Blue,KAUST Yellow bus,KAUST Blue bus,,3,,,
