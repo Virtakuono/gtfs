@@ -1,2 +1,2 @@
-agency_id,agency_name,agency_url,agency_timezone
-KAUSTFC,KAUST Facilities and Community,http://facilities.kaust.edu.sa/,Asia/Riyadh
+agency_id,agency_name,agency_url,agency_timezone,agency_phone,agency_lang
+KAUSTFC,KAUST Facilities and Community,http://facilities.kaust.edu.sa/,Asia/Riyadh,,
