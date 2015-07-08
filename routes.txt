@@ -4,8 +4,8 @@ YE,KAUSTFC,Yellow,Yellow,,3
 PU,KAUSTFC,Purple,Purple,,3
 BL,KAUSTFC,Blue,Blue,,3
 GY,KAUSTFC,Grey,Grey,,3
-F1,KAUSTFC,Fun1,Fun1,,3
 GR,KAUSTFC,Green,Green,,3
 F2,KAUSTFC,Fun2,Fun2,,3
 CA,KAUSTFC,Campus,Campus,,3
+F1,KAUSTFC,Fun1,Fun1,,3
 OR,KAUSTFC,Orange,Orange,,3
