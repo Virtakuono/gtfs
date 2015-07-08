@@ -21,26 +21,26 @@
 "20","Blue",20,"Building 14","Building 14",3378493791
 "21","Blue",21,"Building 16","Building 16",3378493792
 "22","Blue",22,"KMC (Clinic)","Clinic",3378494593
-"23","Orange",1,"Tamimi Supermarket","HES",3639841605
-"24","Orange",2,"HES","I-5202",3639841606
-"25","Orange",3,"I 5202","I-5511",3639841610
-"26","Orange",4,"I 5511","I-5605",3639841611
-"27","Orange",5,"I 5605","I-522M",3639841607
-"28","Orange",6,"I 522M","I-535M",3639841608
-"29","Orange",7,"I 535M","I-548M",3639841609
-"30","Orange",8,"I 548M","IRC",3639841614
-"31","Orange",9,"IRC ","I-5716",472290870
-"32","Orange",10,"I 5716","I-5732",3639841613
-"33","Orange",11,"I 5732","I-5630",3639841612
-"34","Orange",12,"I 5630","I-5614",481884999
-"35","Orange",13,"I 5614","H-4206A",472288185
-"36","Orange",14,"I 5529","Kaust Inn",3639841615
-"37","Orange",15,"H 4206 A","Building 18",1730078413
-"38","Orange",16,"KAUST INN","Building 14",3378493791
-"39","Orange",17,"Building 18","Building 16",3378493792
-"40","Orange",18,"Building 14","Clinic",3378494593
-"41","Orange",19,"Building 16",NA,NA
-"42","Orange",20,"KMC (Clinic)",NA,NA
+"23","Orange",1,"Tamimi Supermarket","Tamimi",1730078895
+"24","Orange",2,"HES","HES",3639841605
+"25","Orange",3,"I 5202","I-5202",3639841606
+"26","Orange",4,"I 5511","I-5511",3639841610
+"27","Orange",5,"I 5605","I-5605",3639841611
+"28","Orange",6,"I 522M","I-522M",3639841607
+"29","Orange",7,"I 535M","I-535M",3639841608
+"30","Orange",8,"I 548M","I-548M",3639841609
+"31","Orange",9,"IRC ","IRC",3639841614
+"32","Orange",10,"I 5716","I-5716",472290870
+"33","Orange",11,"I 5732","I-5732",3639841613
+"34","Orange",12,"I 5630","I-5630",3639841612
+"35","Orange",13,"I 5614","I-5614",481884999
+"36","Orange",14,"I 5529","I-5529",479728044
+"37","Orange",15,"H 4206 A","H-4206A",472288185
+"38","Orange",16,"KAUST INN","Kaust Inn",3639841615
+"39","Orange",17,"Building 18","Building 18",1730078413
+"40","Orange",18,"Building 14","Building 14",3378493791
+"41","Orange",19,"Building 16","Building 16",3378493792
+"42","Orange",20,"KMC (Clinic)","Clinic",3378494593
 "43","Green",1,"Tamimi Supermarket","Tamimi",1730078895
 "44","Green",2,"G3727","G-3727",3378664480
 "45","Green",3,"G3749","G-3749",3639893852
@@ -98,10 +98,10 @@
 "97","Purple",13,"GES","G-3176",3378664473
 "98","Purple",14,"G3382","G-3045",3378664470
 "99","Purple",15,"G3352","G-3106",3639801457
-"100","Purple",16,"G3176","Building 14",3378493791
-"101","Purple",17,"G3045","Building 16",3378493792
-"102","Purple",18,"G3106","Clinic",3378494593
-"103","Purple",19,"KMC (Clinic)",NA,NA
+"100","Purple",16,"G3176","Building 18",1730078413
+"101","Purple",17,"G3045","Building 14",3378493791
+"102","Purple",18,"G3106","Building 16",3378493792
+"103","Purple",19,"KMC (Clinic)","Clinic",3378494593
 "104","Purple",20,"Building 16",NA,NA
 "105","Purple",21,"Building 14",NA,NA
 "106","Purple",22,"Building 18",NA,NA

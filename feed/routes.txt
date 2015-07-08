@@ -1,7 +1,6 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type
 RE,KAUSTFC,Red,,,3
 YE,KAUSTFC,Yellow,,,3
-PU,KAUSTFC,Purple,,,3
 BL,KAUSTFC,Blue,,,3
 GY,KAUSTFC,Grey,,,3
 GR,KAUSTFC,Green,,,3
@@ -9,3 +8,4 @@ F2,KAUSTFC,Fun2,,,3
 CA,KAUSTFC,Campus,,,3
 F1,KAUSTFC,Fun1,,,3
 OR,KAUSTFC,Orange,,,3
+PU,KAUSTFC,Purple,,,3
