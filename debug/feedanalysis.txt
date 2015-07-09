@@ -1,0 +1,1670 @@
+validating feed/
+FeedValidator extension used: None
+stop_times.txt:105 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:106 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:107 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:246 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:247 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:248 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:377 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:378 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:379 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:518 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:519 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:520 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:649 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:650 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:651 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:790 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:791 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:792 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:921 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:922 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:923 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:1062 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:1063 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:1064 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:1193 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:1194 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:1195 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:1334 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:1335 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:1336 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:1465 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:1466 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:1467 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:1606 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:1607 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:1608 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:1737 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:1738 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:1739 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:1878 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:1879 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:1880 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:2009 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:2010 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:2011 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:2150 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:2151 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:2152 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:2281 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:2282 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:2283 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:2422 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:2423 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:2424 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:2553 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:2554 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:2555 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:2694 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:2695 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:2696 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:2825 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:2826 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:2827 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:2966 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:2967 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:2968 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:3097 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:3098 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:3099 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:3238 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:3239 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:3240 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:3369 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:3370 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:3371 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:3510 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:3511 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:3512 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:3641 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:3642 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:3643 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:3782 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:3783 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:3784 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:3913 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:3914 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:3915 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:4054 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:4055 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:4056 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:4185 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:4186 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:4187 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:4326 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:4327 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:4328 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:4457 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:4458 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:4459 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:4598 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:4599 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:4600 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:4729 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:4730 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:4731 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:4870 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:4871 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:4872 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:5001 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:5002 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:5003 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:5142 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:5143 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:5144 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:5273 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:5274 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:5275 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:5414 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:5415 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:5416 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:5545 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:5546 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:5547 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:5686 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:5687 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:5688 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:5817 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:5818 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:5819 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:5958 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:5959 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:5960 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:6089 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:6090 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:6091 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:6230 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:6231 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:6232 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:6361 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:6362 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:6363 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:6502 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:6503 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:6504 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:6633 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:6634 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+stop_times.txt:6635 column stop_id
+Invalid value  in field stop_id
+This value wasn't defined in stops.txt
+All services are defined on a weekly basis from 2015-06-06 to 2017-06-05 with
+no single day variations. If there are exceptions such as holiday service
+dates please ensure they are listed in calendar_dates.txt
+Timetravel detected! Arrival time is before previous departure at sequence
+number 542 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 559 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 576 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 593 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 610 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 627 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 644 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 661 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 678 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 695 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 712 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 729 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 746 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 763 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 773 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 774 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 775 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 776 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 777 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 778 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 779 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 780 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 781 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 782 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 783 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 784 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 785 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 786 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 787 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 788 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 789 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 790 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 791 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 792 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 793 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 794 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 795 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 796 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 797 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 798 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 799 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 800 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 801 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 802 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 803 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 804 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 805 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 806 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 807 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 808 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 809 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 810 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 811 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 812 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 813 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 814 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 815 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 816 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 817 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 818 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 819 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 820 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 821 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 822 in trip GRD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 823 in trip GRD2
+The trip with the trip_id "F2D2" doesn't have any stop times defined.
+Timetravel detected! Arrival time is before previous departure at sequence
+number 730 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 731 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 732 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 733 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 734 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 735 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 736 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 737 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 738 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 739 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 740 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 741 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 742 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 743 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 744 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 745 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 746 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 747 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 748 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 749 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 750 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 751 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 752 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 753 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 754 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 755 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 756 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 757 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 758 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 759 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 760 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 761 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 762 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 763 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 764 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 765 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 766 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 767 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 768 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 769 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 770 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 771 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 772 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 773 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 774 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 775 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 776 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 777 in trip ORD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 528 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 529 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 530 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 531 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 532 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 533 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 534 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 535 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 536 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 537 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 538 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 539 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 540 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 541 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 542 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 543 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 544 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 545 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 546 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 547 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 548 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 549 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 550 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 551 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 552 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 553 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 554 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 555 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 556 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 557 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 558 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 559 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 560 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 561 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 562 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 563 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 564 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 565 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 566 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 567 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 568 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 569 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 570 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 571 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 572 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 573 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 574 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 576 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 577 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 578 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 579 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 580 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 581 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 582 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 583 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 584 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 585 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 586 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 587 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 588 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 589 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 590 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 591 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 592 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 593 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 594 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 595 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 596 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 597 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 598 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 599 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 600 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 601 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 602 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 603 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 604 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 605 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 606 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 607 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 608 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 609 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 610 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 611 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 612 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 613 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 614 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 615 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 616 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 617 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 618 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 619 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 620 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 621 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 622 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 624 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 625 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 626 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 627 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 628 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 629 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 630 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 631 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 632 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 633 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 634 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 635 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 636 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 637 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 638 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 639 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 640 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 641 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 642 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 643 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 644 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 645 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 646 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 647 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 648 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 649 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 650 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 651 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 652 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 653 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 654 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 655 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 656 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 657 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 658 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 659 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 660 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 661 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 662 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 663 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 664 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 665 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 666 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 667 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 668 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 669 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 670 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 672 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 673 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 674 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 675 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 676 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 677 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 678 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 679 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 680 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 681 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 682 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 683 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 684 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 685 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 686 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 687 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 688 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 689 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 690 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 691 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 692 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 693 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 694 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 695 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 696 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 697 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 698 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 699 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 700 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 701 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 702 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 703 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 704 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 705 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 706 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 707 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 708 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 709 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 710 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 711 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 712 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 713 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 714 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 715 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 716 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 717 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 718 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 719 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 720 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 721 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 722 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 723 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 724 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 725 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 726 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 727 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 728 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 729 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 730 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 731 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 732 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 733 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 734 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 735 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 736 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 737 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 738 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 739 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 740 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 741 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 742 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 743 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 744 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 745 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 746 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 747 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 748 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 749 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 750 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 751 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 752 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 753 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 754 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 755 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 756 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 757 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 758 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 759 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 760 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 761 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 762 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 763 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 764 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 765 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 766 in trip RED2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 767 in trip RED2
+The trip with the trip_id "F1E2" doesn't have any stop times defined.
+Timetravel detected! Arrival time is before previous departure at sequence
+number 565 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 566 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 567 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 583 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 584 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 585 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 601 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 602 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 603 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 619 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 620 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 621 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 637 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 638 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 639 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 655 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 656 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 657 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 673 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 674 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 675 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 691 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 692 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 693 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 709 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 710 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 711 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 727 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 728 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 729 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 745 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 746 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 747 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 763 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 764 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 765 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 781 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 782 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 783 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 795 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 796 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 797 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 798 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 799 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 800 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 801 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 802 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 803 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 804 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 805 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 806 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 807 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 808 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 809 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 810 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 811 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 812 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 813 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 814 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 815 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 816 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 817 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 818 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 819 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 820 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 821 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 822 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 823 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 824 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 825 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 826 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 827 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 828 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 829 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 830 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 831 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 832 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 833 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 834 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 835 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 836 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 837 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 838 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 839 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 840 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 841 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 842 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 843 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 844 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 845 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 846 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 847 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 848 in trip PUD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 567 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 568 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 569 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 585 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 586 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 587 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 603 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 604 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 605 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 621 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 622 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 623 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 639 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 640 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 641 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 657 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 658 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 659 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 675 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 676 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 677 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 693 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 694 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 695 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 711 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 712 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 713 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 729 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 730 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 731 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 747 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 748 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 749 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 765 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 766 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 767 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 783 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 784 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 785 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 801 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 802 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 803 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 810 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 811 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 812 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 813 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 814 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 815 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 816 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 817 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 818 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 819 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 820 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 821 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 822 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 823 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 824 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 825 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 826 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 827 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 828 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 829 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 830 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 831 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 832 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 833 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 834 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 835 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 836 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 837 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 838 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 839 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 840 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 841 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 842 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 843 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 844 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 845 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 846 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 847 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 848 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 849 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 850 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 851 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 852 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 853 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 854 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 855 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 856 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 857 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 858 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 859 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 860 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 861 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 862 in trip BLD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 863 in trip BLD2
+The trip with the trip_id "CAE2" doesn't have any stop times defined.
+Timetravel detected! Arrival time is before previous departure at sequence
+number 756 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 757 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 758 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 759 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 760 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 761 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 762 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 763 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 764 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 765 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 766 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 767 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 768 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 769 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 770 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 771 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 772 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 773 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 774 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 775 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 776 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 777 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 778 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 779 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 780 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 781 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 782 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 783 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 784 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 785 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 786 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 787 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 788 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 789 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 790 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 791 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 792 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 793 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 794 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 795 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 796 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 797 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 798 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 799 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 800 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 801 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 802 in trip GYD2
+Timetravel detected! Arrival time is before previous departure at sequence
+number 803 in trip GYD2
+The trip with the trip_id "F2E2" doesn't have any stop times defined.
+Timetravel detected! Arrival time is before previous departure at sequence
+number 351 in trip CAD1
+Timetravel detected! Arrival time is before previous departure at sequence
+number 352 in trip CAD1
+Timetravel detected! Arrival time is before previous departure at sequence
+number 353 in trip CAD1
+Timetravel detected! Arrival time is before previous departure at sequence
+number 354 in trip CAD1
+Timetravel detected! Arrival time is before previous departure at sequence
+number 355 in trip CAD1
+Timetravel detected! Arrival time is before previous departure at sequence
+number 356 in trip CAD1
+Timetravel detected! Arrival time is before previous departure at sequence
+number 357 in trip CAD1
+Timetravel detected! Arrival time is before previous departure at sequence
+number 358 in trip CAD1
+Timetravel detected! Arrival time is before previous departure at sequence
+number 359 in trip CAD1
+Timetravel detected! Arrival time is before previous departure at sequence
+number 360 in trip CAD1
+Timetravel detected! Arrival time is before previous departure at sequence
+number 361 in trip CAD1
+Timetravel detected! Arrival time is before previous departure at sequence
+number 362 in trip CAD1
+Timetravel detected! Arrival time is before previous departure at sequence
+number 363 in trip CAD1
+Timetravel detected! Arrival time is before previous departure at sequence
+number 364 in trip CAD1
+Timetravel detected! Arrival time is before previous departure at sequence
+number 365 in trip CAD1
+Timetravel detected! Arrival time is before previous departure at sequence
+number 366 in trip CAD1
+Timetravel detected! Arrival time is before previous departure at sequence
+number 367 in trip CAD1
+Timetravel detected! Arrival time is before previous departure at sequence
+number 368 in trip CAD1
+Timetravel detected! Arrival time is before previous departure at sequence
+number 369 in trip CAD1
+Timetravel detected! Arrival time is before previous departure at sequence
+number 370 in trip CAD1
+The trip with the trip_id "CAD2" doesn't have any stop times defined.
+The trip with the trip_id "F1D2" doesn't have any stop times defined.
+The trip with the trip_id "YED2" doesn't have any stop times defined.
+Timetravel detected! Arrival time is before previous departure at sequence
+number 41 in trip YED1
+ERROR: 755 errors and 8 warnings found

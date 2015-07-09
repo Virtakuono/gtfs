@@ -53,15 +53,15 @@
 "52","Green",10,"G2237","G-2237",3639893848
 "53","Green",11,"G2141","G-2141",2689870565
 "54","Green",12,"G1749","G-1749",3639893846
-"55","Green",13,"GSS","G-1433",3639893843
-"56","Green",14,"G1735","G-1705",3639893844
-"57","Green",15,"G1705","G-3805",3639893854
-"58","Green",16,"G3805","G-3754",3639893853
-"59","Green",17,"G3754","Clinic",3378494593
-"60","Green",18,"KMC (Clinic)","Building 16",3378493792
-"61","Green",19,"Building 16","Building 14",3378608085
-"62","Green",20,"Building 14","Building 18",646519188
-"63","Green",21,"Building 18",NA,NA
+"55","Green",13,"GSS","GSS",3641149267
+"56","Green",14,"G1735","G-1433",3639893843
+"57","Green",15,"G1705","G-1705",3639893844
+"58","Green",16,"G3805","G-3805",3639893854
+"59","Green",17,"G3754","G-3754",3639893853
+"60","Green",18,"KMC (Clinic)","Clinic",3378494593
+"61","Green",19,"Building 16","Building 16",3378493792
+"62","Green",20,"Building 14","Building 14",3378608085
+"63","Green",21,"Building 18","Building 18",646519188
 "64","Grey",1,"Tamimi Supermarket","Tamimi",1730078895
 "65","Grey",2,"G3417","G-3417",3639872983
 "66","Grey",3,"G3443","G-3443",3639872984
@@ -116,30 +116,30 @@
 "115","Red",9,"G1881","G-1881",3561500601
 "116","Red",10,"G1769","G-1769",3561500599
 "117","Red",11,"G1553","G-1553",3561500596
-"118","Red",12,"GES","G-1427",1474848628
+"118","Red",12,"GES","GES",1474848639
 "119","Red",13,"G1531","G-1531",2689870548
 "120","Red",14,"G1507","G-1507",2102394342
-"121","Red",15,"G3522","Building 18",1730078413
-"122","Red",16,"G3621","Building 14",3378493791
-"123","Red",17,"KMC (Clinic)","Building 16",3378493792
-"124","Red",18,"Building 16","Clinic",3378494593
-"125","Red",19,"Building 14",NA,NA
-"126","Red",20,"Building 18",NA,NA
+"121","Red",15,"G3522","G-3522",3561500603
+"122","Red",16,"G3621","G-3621",3561500605
+"123","Red",17,"KMC (Clinic)","Clinic",3378494593
+"124","Red",18,"Building 16","Building 16",3378493792
+"125","Red",19,"Building 14","Building 14",3378493791
+"126","Red",20,"Building 18","Building 18",1730078413
 "127","Yellow",1,"Tamimi Supermarket","Tamimi",1730078895
 "128","Yellow",2,"Building 16","Building 16",3378493792
 "129","Yellow",3,"Chemical Whse","Chemical Warehouse",1143947675
 "130","Yellow",4,"CSAB","CSOB",3378677968
-"131","Campus",1,"Tamimi Supermarket","Tamimi",1730078895
-"132","Campus",2,"KMC Clinic","Clinic",3639254250
-"133","Campus",3,"Building 16","Building 16",3378493792
-"134","Campus",4,"Building 14","Building 14",3378608085
-"135","Campus",5,"Building 18","Building 18",646519188
-"136","Yellow",5,"Transport Bldg. 1","Transport Building 1",447946604
-"137","Yellow",6,"CPU","Central Production Unit",3378677969
-"138","Yellow",7,"Security Building","Security Building & ID Office",3378677970
-"139","Yellow",8,"Building 14","Building 14",3378608085
-"140","Yellow",9,"Building 18","Building 18",646519188
-"141","Yellow",10,"KMC (Clinic)","Clinic",3378494593
+"131","Yellow",5,"Transport Bldg. 1","Transport Building 1",447946604
+"132","Yellow",6,"CPU","Central Production Unit",3378677969
+"133","Yellow",7,"Security Building","Security Building & ID Office",3378677970
+"134","Yellow",8,"Building 14","Building 14",3378608085
+"135","Yellow",9,"Building 18","Building 18",646519188
+"136","Yellow",10,"KMC (Clinic)","Clinic",3378494593
+"137","Campus",1,"Tamimi Supermarket","Tamimi",1730078895
+"138","Campus",2,"KMC Clinic","Clinic",3639254250
+"139","Campus",3,"Building 16","Building 16",3378493792
+"140","Campus",4,"Building 14","Building 14",3378608085
+"141","Campus",5,"Building 18","Building 18",646519188
 "142","Fun1",1,"TAMIMI","Tamimi",1730078895
 "143","Fun1",2,"GOLF","Golf",560070523
 "144","Fun1",3,"RACKET","Racquet club",3639903836
