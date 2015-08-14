@@ -1,4 +1,4 @@
-validating ../gtfs/feed/
+validating /home/andrew/gtfs/feed/
 FeedValidator extension used: None
 All services are defined on a weekly basis from 2015-06-06 to 2017-06-05 with
 no single day variations. If there are exceptions such as holiday service
